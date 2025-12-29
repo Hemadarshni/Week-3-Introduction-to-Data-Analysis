@@ -113,19 +113,12 @@ A clean, formatted report included results written clearly in the report file
 Comments added for each analysis step explained in code
 
 ## 📊 Sample Analysis Output
+
 Total Sales Revenue: 12,365,048.00
 
 Best-Selling Product: Laptop
 
 Average Sales Value: 123,650.48
-
-Highest Sales Value: 373,932.00
-
-Lowest Sales Value: 6,540.00
-
-Month with highest sales: March
-
-Total Sales: 4,485,006.00
 
 ## 📘 Key Findings
 
