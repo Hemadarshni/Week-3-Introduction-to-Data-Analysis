@@ -49,10 +49,10 @@ To find the month with the highest sales, the data was grouped by the `Month` co
 
 ##  Key Findings
 - The dataset contains sales data across multiple months
-- Total sales revenue was calculated successfully
+- Total sales revenue was calculated successfully, which came up to 12,365,048.00
 - Laptop was the best-selling product
-- Highest, Lowest, and Average sales were calculated successfully
-- January was the month with the highest overall sales 
+- Average Sales Value: 123,650.48, Highest Sales Value: 373,932.00, Lowest Sales Value: 6,540.00 were calculated respectively
+- March was the month with the highest overall sales, up to 4,485,006.00  
 
 
 
